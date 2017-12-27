@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="third_party/hadoop-0.20.0/hadoop-0.20.0-core.jar"/>
+	<classpathentry kind="lib" path="third_party/hadoop-0.20.0/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="third_party/guava-r06/guava-r06.jar"/>
+	<classpathentry kind="lib" path="third_party/slf4j-1.6.1/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="third_party/slf4j-1.6.1/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="third_party/akka-actor_2.12-2.5.8.jar"/>
+	<classpathentry kind="lib" path="third_party/colt.jar"/>
+	<classpathentry kind="lib" path="third_party/asm-3.2/lib/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="third_party/asm-3.2/lib/asm-commons-3.2.jar"/>
+	<classpathentry kind="lib" path="third_party/apache-log4j-1.2.16/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
